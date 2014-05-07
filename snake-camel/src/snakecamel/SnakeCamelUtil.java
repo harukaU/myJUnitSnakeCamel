@@ -43,3 +43,4 @@ public class SnakeCamelUtil {
 		return lowerFirst + rest;
 	}
 }
+
